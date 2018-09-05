@@ -6,4 +6,5 @@ def initialize(name, job)
   def name
     @name
   end
+  breed = "Mutt"
 end
