@@ -1,10 +1,9 @@
-def initialize(name, job)
+def initialize(name)
   @name=name
-  @job= job
+  
   end
 
   def name
     @name
   end
-  breed = "Mutt"
 end
